@@ -7,3 +7,5 @@
 :imagesdir: ./assets/images/
 
 include::concept.adoc[]
+include::research.adoc[]
+include::bill-of-materials.adoc[]

@@ -1,9 +1,9 @@
-== Concept
+== The Concept of the Plants Project
 
 This chapter describes the concept of the project.
 We start with the goal of the project an
 
-=== Goal
+=== What we want to achieve
 
 The goal of this project is to create a system for growing plants which is:
 
@@ -14,3 +14,23 @@ The goal of this project is to create a system for growing plants which is:
 * should require as little effort to operate as possible
 * should be configurable
 * should be easy to monitor
+
+
+=== Primary Capabilities: What the system must be capable of
+
+. configurable and monitor-able watering system
+. configurable, energy efficient and monitor-able lighting system
+. adjustable height of light
+. measuring soil moisture
+
+=== Secondary Capabilities: Nice to have
+
+. adjustable height of modules
+
+
+=== Topics to do more Research on
+
+* How to prevent waterlogging
+* What is the best soil
+
+
