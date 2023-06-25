@@ -1,1 +1,16 @@
 == Concept
+
+This chapter describes the concept of the project.
+We start with the goal of the project an
+
+=== Goal
+
+The goal of this project is to create a system for growing plants which is:
+
+* modular
+* easy to use
+* cheap
+* open source
+* should require as little effort to operate as possible
+* should be configurable
+* should be easy to monitor
